@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notviso.github.io/play-jcweb-com/sitemap.xml
